@@ -12,5 +12,9 @@
     "statusBar.noFolderBackground": "#580D3B",
     "statusBar.noFolderForeground": "#FFFCFD"
   },
-  "prisma.pinToPrisma6": false
+  "prisma.pinToPrisma6": false,
+  "sonarlint.connectedMode.project": {
+    "connectionId": "MDS M1 DevOps Sonar",
+    "projectKey": "RiusmaX_mds-m1-devops-portfolio_a1236eec-cd51-46c3-8d83-e1ef62eb0646"
+  }
 }
